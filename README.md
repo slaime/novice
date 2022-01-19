@@ -1,2 +1,2 @@
 # novice
-Escaping Novice[En] 00. Start
+Escaping Novice[En] 00. Start DL
