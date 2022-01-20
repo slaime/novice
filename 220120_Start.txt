@@ -1,1 +1,7 @@
 From now, I'll study deep learning.
+
+In my Github, I'll make a blog with the result of Colab.
+Sourcetree also will be use to push from my computer easily.
+
+I'm not good at English, but I'll try my best using a Google translator.
+
