@@ -1,6 +1,7 @@
 From now, I'll study deep learning.
 
-I'll make a blog with various Colab codes at other platform.
+I'll release various codes using Colab(tensorflow2)
+and make blog/youtube with code desciptions.
 Sourcetree also will be use to push from my computer easily.
 
 In my Github, 
@@ -8,6 +9,7 @@ In my Github,
    (I'm not good at English, but I'll try my best using a Google translator.)
 2. Tested codes in Colab will be released.
 3. Collaboration activity will be started after novice study.
+
 
 
 
