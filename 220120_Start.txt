@@ -1,7 +1,13 @@
 From now, I'll study deep learning.
 
-In my Github, I'll make a blog with the result of Colab.
+I'll make a blog with various Colab codes at other platform.
 Sourcetree also will be use to push from my computer easily.
 
-I'm not good at English, but I'll try my best using a Google translator.
+In my Github, 
+1. I'll use only English.
+   (I'm not good at English, but I'll try my best using a Google translator.)
+2. Tested codes in Colab will be released.
+3. Collaboration activity will be started after novice study.
+
+
 
