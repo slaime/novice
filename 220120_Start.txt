@@ -1,4 +1,4 @@
-From now, I'll study deep learning.(test)
+From now, I'll study deep learning.
 
 I'll release various codes using Colab(tensorflow2)
 and make blog/youtube with code desciptions.
